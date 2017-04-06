@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 06 09:15:24 2017
 
-@author: bryan tutt
+@author: bt
 """
 
 import arcpy
